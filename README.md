@@ -22,6 +22,8 @@ Getting Started
 ===============
 
 ```
+git clone 
+cd image-gallery
 cp .env.sample .env   # cp .env.sample .env
 ```
 ===> Change Unsplash public key with yours : 
