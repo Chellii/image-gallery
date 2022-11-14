@@ -7,15 +7,28 @@
   </p>
 </div>
 
-### Getting Started
+Table of contents
+=================
+
+<!--ts-->
+   * [Getting Started](#getting-started)
+   * [Installation](#installation)
+   * [Appendix](#appendix)
+      * [Get unsplash key](#get-unsplash-key)
+      * [Preview](#preview)
+<!--te-->
+
+Getting Started
+===============
 
 ```
 cp .env.sample .env   # cp .env.sample .env
 ```
 ===> Change Unsplash public key with yours : 
-[See how you can get unsplash key](#installation)
+[See how you can get unsplash key](#howtogetUnsplashAccessKey)
 
-### Installation
+Installation
+============
 
 ```sh
 cd image-gallery/  # cd into main directory
@@ -25,7 +38,11 @@ npm run dev
 
 ```
 
-# How to get Unsplash Access Key
+Appendix
+========
+
+## Get unsplash key
+
 
 ```
 Go to https://unsplash.com/developers
@@ -37,7 +54,7 @@ Follow steps below
 <h3>Copy Access Key</h3>
 <p> <img src="./readmeImages/accessKey.png" width="350" height="200"/> </p>
 
-# Preview
+## Preview
 
 Preview of the website
 <p> <img src="./readmeImages/signinPage.png" width="550" height="400"/> </p>
