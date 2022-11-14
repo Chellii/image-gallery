@@ -1,0 +1,36 @@
+{
+    "compilerOptions": {
+      "allowJs": true,
+      "allowUnreachableCode": false,
+      "allowUnusedLabels": false,
+      "declaration": true,
+      "esModuleInterop": true,
+      "forceConsistentCasingInFileNames": true,
+      "isolatedModules": true,
+      "jsx": "preserve",
+      "lib": ["dom", "dom.iterable", "esnext"],
+      "module": "esnext",
+      "moduleResolution": "node",
+      "noEmit": true,
+      "noFallthroughCasesInSwitch": true,
+      "noImplicitReturns": false,
+      "pretty": true,
+      "resolveJsonModule": true,
+      "skipLibCheck": true,
+      "sourceMap": true,
+      "strict": true,
+      "target": "es2018",
+      "incremental": true,
+      "baseUrl": "./src",
+      "paths": {
+        "components/*": ["./components/*", "./components"],
+        "page-sections/*": ["./page-sections/*", "./page-sections"]
+      }
+    },
+    "include": [
+      "./src/public/static/images/index.d.ts",
+      "**/*.js",
+      "**/*.jsx"
+    ],
+    "exclude": ["node_modules"]
+  }
