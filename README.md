@@ -12,7 +12,6 @@
 
 ```
 cp .env.sample .env   # cp .env.sample .env
-cd api                # cd into server side
 ```
 ===> Change Unsplash public key with yours : 
 [See how you can get unsplash key](#installation)
