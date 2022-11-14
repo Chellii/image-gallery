@@ -13,7 +13,6 @@
 ```
 cp .env.sample .env   # cp .env.sample .env
 cd api                # cd into server side
-cp .env.sample .env   # copy the .env file
 ```
 ===> Change Unsplash public key with yours : 
 [See how you can get unsplash key](#installation)
@@ -21,7 +20,7 @@ cp .env.sample .env   # copy the .env file
 ## Installation
 
 ```sh
-cd med-image-gallery/  # cd into main directory
+cd image-gallery/  # cd into main directory
 npm install -f                                  # install dependencies
 ==> in the main directory run :
 npm run dev                                  
