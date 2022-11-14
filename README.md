@@ -22,7 +22,7 @@ Getting Started
 ===============
 
 ```
-git clone 
+git clone git@github.com:Chellii/image-gallery.git
 cd image-gallery
 cp .env.sample .env   # cp .env.sample .env
 ```
