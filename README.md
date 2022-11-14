@@ -38,6 +38,8 @@ Follow steps below
 <p> <img src="./readmeImages/accessKey.png" width="350" height="200"/> </p>
 
 # Preview
+
+Preview of the website
 <p> <img src="./readmeImages/signinPage.png" width="550" height="400"/> </p>
 <p> <img src="./readmeImages/homePage1.png" width="550" height="500"/> </p>
 <p> <img src="./readmeImages/Homepage2.png" width="550" height="500"/> </p>
